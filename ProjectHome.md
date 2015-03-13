@@ -1,0 +1,1 @@
+Software for producing DAISY digital talking books for the blind and disabled.
